@@ -7,3 +7,5 @@ for i in range(100):
 print(f"x: {x}")
 mean = np.mean(x)
 print(f"mean: {mean}")
+median = np.median(x)
+print(f"median: {median}")
