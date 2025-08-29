@@ -1,5 +1,6 @@
 import numpy as np
 import random as rd
+<<<<<<< HEAD
 import matplotlib.pyplot as plt
 x_normal = []
 x_random = []
